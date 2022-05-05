@@ -1,0 +1,45 @@
+/* reseteo */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+/* heaader */
+.background__header {
+  background-color: #b22727;
+}
+.header__title {
+  font-size: 25px;
+}
+.header__menu {
+  font-size: 25px;
+}
+/* main */
+.container__info {
+  padding-top: 10px;
+}
+
+.container__info p {
+  font-size: 20px;
+}
+/* footer */
+footer {
+  background-color: #b22727;
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer div {
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+footer div a img {
+  width: 50px;
+  height: auto;
+}
